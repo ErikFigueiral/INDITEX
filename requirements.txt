@@ -16,8 +16,8 @@ requests
 scikit-learn
 
 # --- TensorFlow / Keras ---
-tensorflow==2.16.1
-keras==3.0.0
+#tensorflow==2.16.1
+#keras==3.0.0
 
 # --- Visualización ---
 matplotlib
